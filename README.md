@@ -3,7 +3,9 @@
 <h1 align="center">Hi 👋, I'm Anas Tahir</h1>
 <h3 align="center">A passionate frontend developer from Pakistan❤️</h3>
 <br/><hr/>
-
+<br/><hr/>
+<img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Banner of coding" width="1000" height="400" align="top"><br/><br/>
+<img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="1000" height="400" align="top"><br/><br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasdev17&label=Profile%20views&color=0e75b6&style=flat" alt="anasdev17" /> </p>
 
 - 🔭 I’m currently working on **My Best Projects**
@@ -66,11 +68,11 @@
 <a href="https://linkedin.com/in/anas tahir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anas tahir" height="30" width="40" /></a>
 <a href="https://instagram.com/elite_x_anas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elite_x_anas" height="30" width="40" /></a>
 </p>
-  # 📊 GitHub Stats:
+  
+# 📊 GitHub Stats:
 <br/>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anasdev17&theme=codeSTACKr&hide_border=false" alt="anasdev17" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anasdev17&" alt="anasdev17" /></p>
 
 <br/><hr/><br/>
 ### ✍️ Random Dev Quote
