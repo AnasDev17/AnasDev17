@@ -5,7 +5,7 @@
 <h1 align="center">A passionate frontend developer from Pakistan❤️</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasdev17&label=Profile%20views&color=0e75b6&style=flat" alt="anasdev17" /> </p>
-<img src="https://media0.giphy.com/media/78XCFBGOlS6keY1Bil/200w.gif?cid=6c09b9522xx3xd2k3bnre14z117mlundpogl36iney1jrxqw&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="Banner of coding" width="300" height="200" align="right"><br/><br/>
+<img src="https://media0.giphy.com/media/78XCFBGOlS6keY1Bil/200w.gif?cid=6c09b9522xx3xd2k3bnre14z117mlundpogl36iney1jrxqw&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="Banner of coding" width="300" height="300" align="right"><br/><br/>
 - 🔭 I’m currently working on **My Best Projects**
 
 - 🌱 I’m currently learning **Mern Stack And App Dev**
@@ -15,6 +15,8 @@
 - 📫 How to reach me **anastahirhussain7@gmail.com**
 
 - ⚡ Fun fact **I Am Furture Billionaire 😎**
+   <br>
+    <br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anasdev17&theme=radical&no-frame=false&no-bg=true&margin-w=4)<br>
 <table>
