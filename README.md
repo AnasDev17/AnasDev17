@@ -71,9 +71,9 @@
   
 # 📊 GitHub Stats:
 <br/>
+<hr/>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anasdev17&theme=codeSTACKr&hide_border=false" alt="anasdev17" /></p>
 <img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Banner of coding" width="1000" height="400" align="top"><br/><br/>
-
-<br/><hr/><br/>
+<hr/><br/>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
