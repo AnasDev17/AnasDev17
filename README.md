@@ -2,8 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Anas Tahir</h1>
 <h3 align="center">A passionate frontend developer from Pakistan❤️</h3>
-![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 <br/><hr/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasdev17&label=Profile%20views&color=0e75b6&style=flat" alt="anasdev17" /> </p>
@@ -71,12 +69,8 @@
   <br><br>
 </table>
   # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anasdev17&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=anasdev17&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anasdev17&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 <br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anasdev17&show_icons=true&locale=en" alt="anasdev17" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anasdev17&theme=codeSTACKr&hide_border=false" alt="anasdev17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anasdev17&" alt="anasdev17" /></p>
 
