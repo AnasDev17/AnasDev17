@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasdev17&label=Profile%20views&color=0e75b6&style=flat" alt="anasdev17" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anasdev17" alt="anasdev17" /></a> </p>
-
 - 🔭 I’m currently working on **My Best Projects**
 
 - 🌱 I’m currently learning **Mern Stack And App Dev**
@@ -19,11 +17,6 @@
 - ⚡ Fun fact **I Am Furture Billionaire 😎**
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anasdev17&theme=radical&no-frame=false&no-bg=true&margin-w=4)<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anas tahir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anas tahir" height="30" width="40" /></a>
-<a href="https://instagram.com/elite_x_anas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elite_x_anas" height="30" width="40" /></a>
-</p>
 <table>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -68,6 +61,11 @@
 </table>
   <br><br>
 </table>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/anas tahir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anas tahir" height="30" width="40" /></a>
+<a href="https://instagram.com/elite_x_anas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elite_x_anas" height="30" width="40" /></a>
+</p>
   # 📊 GitHub Stats:
 <br/>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anasdev17&theme=codeSTACKr&hide_border=false" alt="anasdev17" /></p>
