@@ -1,13 +1,13 @@
 <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="Banner of coding" width="1000" height="400" align="top"><br/><br/>
 
 <h1 align="center">Hi 👋, I'm Anas Tahir</h1>
+<br/><hr/>
 <h3 align="center">A passionate frontend developer from Pakistan❤️</h3>
 <br/><hr/>
-<br/><hr/>
-<img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Banner of coding" width="1000" height="400" align="top"><br/><br/>
 <img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="1000" height="400" align="top"><br/><br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasdev17&label=Profile%20views&color=0e75b6&style=flat" alt="anasdev17" /> </p>
 
+<img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Banner of coding" width="1000" height="400" align="top"><br/><br/>
 - 🔭 I’m currently working on **My Best Projects**
 
 - 🌱 I’m currently learning **Mern Stack And App Dev**
