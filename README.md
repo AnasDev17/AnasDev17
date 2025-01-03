@@ -2,12 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Anas Tahir</h1>
 <br/><hr/>
-<h3 align="center">A passionate frontend developer from Pakistan❤️</h3>
+<h1 align="center">A passionate frontend developer from Pakistan❤️</h1>
 <br/><hr/>
-<img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="1000" height="400" align="top"><br/><br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasdev17&label=Profile%20views&color=0e75b6&style=flat" alt="anasdev17" /> </p>
-
 <img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Banner of coding" width="1000" height="400" align="top"><br/><br/>
+
 - 🔭 I’m currently working on **My Best Projects**
 
 - 🌱 I’m currently learning **Mern Stack And App Dev**
@@ -63,6 +62,7 @@
 </table>
   <br><br>
 </table>
+<img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="1000" height="400" align="top"><br/><br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anas tahir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anas tahir" height="30" width="40" /></a>
