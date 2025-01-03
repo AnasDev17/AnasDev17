@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="Banner of coding" width="1000" height="400" align="top"><br/><br/>
 
 <h1 align="center">Hi 👋, I'm Anas Tahir</h1>
-<br/><hr/>
+<<hr/>
 <h1 align="center">A passionate frontend developer from Pakistan❤️</h1>
-<br/><hr/>
+<hr/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasdev17&label=Profile%20views&color=0e75b6&style=flat" alt="anasdev17" /> </p>
 <img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Banner of coding" width="1000" height="400" align="top"><br/><br/>
 
@@ -62,7 +62,6 @@
 </table>
   <br><br>
 </table>
-<img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="1000" height="400" align="top"><br/><br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anas tahir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anas tahir" height="30" width="40" /></a>
@@ -73,6 +72,7 @@
 <br/>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anasdev17&theme=codeSTACKr&hide_border=false" alt="anasdev17" /></p>
 
+<img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="1000" height="400" align="top"><br/><br/>
 
 <br/><hr/><br/>
 ### ✍️ Random Dev Quote
