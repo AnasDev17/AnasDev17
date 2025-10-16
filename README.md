@@ -46,7 +46,7 @@
     </td>
      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="react" />
-      <br>Express JS
+      <br>Express
     </td>
   </tr>
   <tr>
@@ -58,6 +58,14 @@
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
       <br>Github
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="react" />
+      <br>Postman
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vercel" width="40" height="40" alt="react" />
+      <br>Vercel
     </td>
     <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
