@@ -45,7 +45,7 @@
       <br>React
     </td>
      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=expressjs" width="40" height="40" alt="react" />
+        <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="react" />
       <br>Express JS
     </td>
   </tr>
