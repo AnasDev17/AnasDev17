@@ -40,6 +40,10 @@
         <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
       <br>VsCode
     </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="react" />
+      <br>React
+    </td>
   </tr>
   <tr>
      <tr>
