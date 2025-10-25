@@ -71,6 +71,10 @@
         <img src="https://skillicons.dev/icons?i=vercel" width="40" height="40" alt="react" />
       <br>Vercel
     </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="mongodb" />
+      <br>Mongo DB
+      </td>
     <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
       <br>Git
@@ -78,10 +82,6 @@
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
       <br>Nodejs
-      </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="mongodb" />
-      <br>Mongo DB
       </td>
       </td>
  </tr>
