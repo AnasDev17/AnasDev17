@@ -83,7 +83,6 @@
         <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
       <br>Nodejs
       </td>
-      </td>
  </tr>
 </table>
   <br><br>
