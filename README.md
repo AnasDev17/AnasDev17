@@ -79,6 +79,10 @@
         <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
       <br>Nodejs
       </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="mongodb" />
+      <br>Mongo DB
+      </td>
       </td>
  </tr>
 </table>
