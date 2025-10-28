@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **Mern Stack And App Dev**
 
-- 💬 Ask me about **Html,Css,Js,BootStrap**
+- 💬 Ask me about **Html,Css,Js,React,Express,MongoDB,NodeJs**
 
 - 📫 How to reach me **anastahirhussain7@gmail.com**
 
-- ⚡ Fun fact **I Am Furture Billionaire 😎**
+- ⚡ Fun fact **I Am Furture Millionaire 😎**
    <br>
     <br>
 ## 🏆 GitHub Trophies
