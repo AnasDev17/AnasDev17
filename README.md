@@ -44,6 +44,10 @@
         <img src="https://skillicons.dev/icons?i=typescript" width="40" height="40" alt="react" />
       <br>Typescript 
     </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redux" width="40" height="40" alt="react" />
+      <br>Redux
+    </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="react" />
       <br>React
