@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **anasbusiness8476@gmail.com**
 
-- ⚡ Fun fact **I Am Furture Millionaire 😎**
+- ⚡ Fun fact **I Am Furture Billionaire 😎**
    <br>
     <br>
 ## 🏆 GitHub Trophies
